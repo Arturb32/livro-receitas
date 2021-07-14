@@ -1,6 +1,9 @@
 # Livro de receitas :man_cook:
 
-Olá! Bem vindo ao meu livro de receitas
+Olá! Bem vindo ao meu livro de receitas!
 
-- Estrogonoff
+
+
+- Estrogonofe de frango
 - Pavê
+- Bolo de Cenoura
